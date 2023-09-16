@@ -125,7 +125,7 @@ the following URL as your source:
 https://s3.amazonaws.com/ironboard-learn/lion.jpg
 ```
 
-![lion](https://s3.amazonaws.com/ironboard-learn/lion.jpg)
+![lion][def]
 
 Your challenge is to write _three_ image tags:
 
@@ -142,3 +142,6 @@ With images, we can fill our web pages with visual content in addition to text.
 Brand logos, animated instructional guides, personal artwork and photography, or
 pictures of you and your friends — you now have the ability to create visually
 appealing content of _any type!_
+
+
+[def]: https://s3.amazonaws.com/ironboard-learn/lion.jpg
